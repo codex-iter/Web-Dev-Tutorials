@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+    padding: auto;
+  }
+
+h1 {
+    font-family: "impact";
+}
+
+header {
+    overflow: hidden;
+}
+
+#banner{
+    margin: 0px auto;
+    width: 1000px;
+    height: 440px;
+}
+
+#logo h1{
+    line-height: 150px;
+    letter-spacing: 3px;
+    font-size: 3em;
+  }
+
+img{
+    width:1000px;
+}
+
+
+#headings {
+    font-size: 40px;
+}
+
+p {
+    color: gray;
+}
+
+a {
+    color: blue;
+}
+
+nav a {
+    font-size: 20px;
+}
